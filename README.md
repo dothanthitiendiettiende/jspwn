@@ -1,2 +1,0 @@
-# jspwn
-JavaScript Engine Exploitation 
